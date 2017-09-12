@@ -7,7 +7,17 @@ If you touch again, it turns back to "Circle"
 
 Author: key
 
-Screenshot:
+
+## Main Components Reference
+
+* State: https://facebook.github.io/react-native/docs/state.html or https://reactnative.cn/docs/0.39/state.html#content (CN ver)
+* Sytle: https://facebook.github.io/react-native/docs/style.html or https://reactnative.cn/docs/0.39/style.html#content (CN ver)
+* Layout & Flexbox: https://facebook.github.io/react-native/docs/flexbox.html or https://www.youtube.com/watch?v=-xFF5KF-KpE&t=1s
+* Image: https://facebook.github.io/react-native/docs/images.html or https://reactnative.cn/docs/0.39/image.html#content (CN ver)
+* TouchableHightLight: https://facebook.github.io/react-native/docs/touchablehighlight.html or https://reactnative.cn/docs/0.39/touchablehighlight.html#content (CN ver)
+
+
+## Screenshot:
 
 ![scr01](https://github.com/tavik000/Self-Learn_React_Native/raw/master/First_React_Native/Screenshots/scr01.jpg)
 ![scr02](https://github.com/tavik000/Self-Learn_React_Native/raw/master/First_React_Native/Screenshots/scr02.jpg)
