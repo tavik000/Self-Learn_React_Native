@@ -1,7 +1,7 @@
 # Self-Learn_React_Native
 
 ## React Native Doc
-[React Native Offical Document](https://facebook.github.io/react-native/docs/getting-started.html)
+[React Native Official Document](https://facebook.github.io/react-native/docs/getting-started.html)
 
 
 
