@@ -8,9 +8,10 @@ If you touch again, it turns back to "Circle"
 Author: key
 
 Screenshot:
-![scr03](https://github.com/tavik000/Hero_Race/raw/master/Screenshots/scr03.jpg)
-![scr01](https://github.com/tavik000/Hero_Race/raw/master/Screenshots/scr01.jpg)
-![scr02](https://github.com/tavik000/Hero_Race/raw/master/Screenshots/scr02.jpg)
+
+![scr01](https://github.com/tavik000/Self-Learn_React_Native/raw/master/First_React_Native/Screenshots/scr01.jpg)
+![scr02](https://github.com/tavik000/Self-Learn_React_Native/raw/master/First_React_Native/Screenshots/scr02.jpg)
+![scr03](https://github.com/tavik000/Self-Learn_React_Native/raw/master/First_React_Native/Screenshots/scr03.jpg)
 
 
 
