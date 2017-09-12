@@ -15,7 +15,7 @@ Screenshot:
 
 
 
-**If you like this game, please leave a star.**
+**If you like this, please leave a star.**
 
 -----
 
